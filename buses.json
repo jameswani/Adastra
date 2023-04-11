@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Greyhound",
+        "capacity": 50,
+        "id": 324004,
+        "origin": "Buffalo",
+        "destination": "New York",
+        "route": ["Syracuse - New York", "Rochester - New York"],
+        "price": 80.96,
+        "depart": "2019-01-01T00:00:00.000Z",
+        "arrival": "2019-01-01T00:00:00.000Z",
+        "date": "2019-01-01T00:00:00.000Z"
+
+    },
+    {
+        "name": "Megabus",
+        "capacity": 66,
+        "id": 334104,
+        "origin": "Rochester",
+        "destination": "New York",
+        "route": "Syracuse - New York",
+        "price": 80.96,
+        "depart": "2019-01-01T00:00:00.000Z",
+        "arrival": "2019-01-01T00:00:00.000Z",
+        "date": "2019-01-01T00:00:00.000Z"
+
+    },
+    {
+        "name": "Greyhound",
+        "capacity": 50,
+        "id": 424104,
+        "origin": "Syracuse",
+        "destination": "New York",
+        "route": null,
+        "price": 80.96,
+        "depart": "2019-01-01T00:00:00.000Z",
+        "arrival": "2019-01-01T00:00:00.000Z",
+        "date": "2019-01-01T00:00:00.000Z"
+
+    }
+
+]
+
